@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Paulo Rian 👋</h1>
+<h1 align="center">Olá, eu sou o Paulo Rian </h1>
 <p align="center">
   Estudante de <b>Engenharia de Software</b> na UGV · Desenvolvimento back-end e sistemas
 </p>
